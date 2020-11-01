@@ -1,3 +1,8 @@
+v1.10.2 (2020-01-xx)
+- Add check for video availability
+- Add support to NFAuthentication for MacOS
+- Fixed wrong resume time after manual seek (when nf sync enabled)
+
 v1.10.1 (2020-10-24)
 - Improved watched status, now videos will be marked as watched correctly (Kodi 19 all cases/Kodi 18 library only)
 - Improved loading video lists speed on slow hdd/sdcard
